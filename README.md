@@ -3,7 +3,7 @@ Un blog increible hecho en el curso de Git y Github de Platzi como practica.
 > Solo un proyecto de prueba para aprender como utilizar Git y Github desde 0 hasta un nivel profesional tanto desde consola como directamente en Github.
 > - Chazzy
 
-#En este curso aprendi muchas cosas tales como:
+## En este curso aprendi muchas cosas tales como:
 * Todos los comandos de Git
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas practicas
